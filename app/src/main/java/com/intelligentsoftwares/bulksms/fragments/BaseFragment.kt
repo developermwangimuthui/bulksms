@@ -8,9 +8,9 @@ import androidx.annotation.LayoutRes
 import androidx.fragment.app.Fragment
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 6/25/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
 
 abstract class BaseFragment : Fragment() {

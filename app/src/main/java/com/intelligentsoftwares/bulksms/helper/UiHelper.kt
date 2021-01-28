@@ -15,9 +15,9 @@ import com.afollestad.materialdialogs.list.listItemsSingleChoice
 import java.io.File
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 6/25/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
 
 class UiHelper {

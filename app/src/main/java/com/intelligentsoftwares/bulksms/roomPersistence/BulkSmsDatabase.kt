@@ -10,11 +10,10 @@ import com.intelligentsoftwares.bulksms.roomPersistence.converters.CollectionTyp
 
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 6/28/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
-
 @Database(entities = [BulkSms::class], version = 1, exportSchema = false)
 @TypeConverters(
     CollectionTypeConverter::class,

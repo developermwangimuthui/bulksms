@@ -18,11 +18,10 @@ import com.intelligentsoftwares.bulksms.util.Event
 import com.intelligentsoftwares.bulksms.util.subscriptionManager
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 6/28/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
-
 @SuppressLint("MissingPermission")
 class SettingsFragmentViewModel(
     application: MyCustomApplication,

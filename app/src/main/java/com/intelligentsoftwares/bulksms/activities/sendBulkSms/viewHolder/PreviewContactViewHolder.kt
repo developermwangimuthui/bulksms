@@ -10,9 +10,9 @@ import com.intelligentsoftwares.bulksms.R
 
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 10/27/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
 
 class PreviewContactViewHolder constructor(override val containerView: View) :

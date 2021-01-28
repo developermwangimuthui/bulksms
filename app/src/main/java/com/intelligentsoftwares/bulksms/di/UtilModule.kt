@@ -7,9 +7,9 @@ import com.intelligentsoftwares.bulksms.helper.UiHelper
 
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 10/27/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
 
 private const val USER_SHARED_PREFERENCE = "spartons.com.prosmssenderapp_user_shared_preference"

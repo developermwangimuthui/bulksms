@@ -8,9 +8,9 @@ import com.intelligentsoftwares.bulksms.activities.sendBulkSms.ui.SendBulkSmsAct
 
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 6/25/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
 
 interface ActivityArgs {

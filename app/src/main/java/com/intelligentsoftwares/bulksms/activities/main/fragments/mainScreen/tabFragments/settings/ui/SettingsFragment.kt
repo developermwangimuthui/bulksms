@@ -28,11 +28,10 @@ import com.intelligentsoftwares.bulksms.util.*
 import com.intelligentsoftwares.bulksms.util.Constants.CARRIER_NAME_SPLITTER
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 6/28/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
-
 class SettingsFragment : BaseFragment() {
 
     private val sharedPreferenceHelper: SharedPreferenceHelper by inject()

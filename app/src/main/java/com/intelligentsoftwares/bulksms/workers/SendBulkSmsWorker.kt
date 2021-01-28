@@ -25,9 +25,9 @@ import timber.log.Timber
 
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 6/27/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
 
 class SendBulkSmsWorker constructor(

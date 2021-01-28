@@ -6,9 +6,9 @@ import com.intelligentsoftwares.bulksms.roomPersistence.BulkSmsDatabase
 
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 10/27/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
 
 val roomModule = module {

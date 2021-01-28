@@ -2,8 +2,8 @@ package com.intelligentsoftwares.bulksms.util
 
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
  * 6/26/19}
  */
 

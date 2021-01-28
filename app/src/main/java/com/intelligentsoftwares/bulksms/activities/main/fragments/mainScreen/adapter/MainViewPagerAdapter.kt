@@ -8,11 +8,10 @@ import com.intelligentsoftwares.bulksms.activities.main.fragments.mainScreen.tab
 
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 6/28/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
-
 class MainViewPagerAdapter(fragmentManager: FragmentManager) :
     FragmentPagerAdapter(fragmentManager, BEHAVIOR_RESUME_ONLY_CURRENT_FRAGMENT) {
 

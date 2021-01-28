@@ -16,11 +16,10 @@ import com.intelligentsoftwares.bulksms.util.cancelWorker
 import com.intelligentsoftwares.bulksms.util.notificationManager
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 6/28/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
-
 class HistoryFragmentViewModel constructor(
     application: MyCustomApplication,
     private val bulkSmsDao: BulkSmsDao,

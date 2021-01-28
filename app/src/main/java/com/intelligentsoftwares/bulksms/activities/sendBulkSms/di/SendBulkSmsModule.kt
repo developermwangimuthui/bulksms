@@ -8,9 +8,9 @@ import com.intelligentsoftwares.bulksms.backend.MyCustomApplication
 
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 10/27/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
 
 val sendBulkSmsModule = module {

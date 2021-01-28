@@ -4,9 +4,9 @@ import android.content.SharedPreferences
 import androidx.core.content.edit
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 6/30/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
 
 class SharedPreferenceHelper(

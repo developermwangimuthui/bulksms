@@ -2,9 +2,9 @@ package com.intelligentsoftwares.bulksms.util
 
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 10/31/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
 
 object Constants {

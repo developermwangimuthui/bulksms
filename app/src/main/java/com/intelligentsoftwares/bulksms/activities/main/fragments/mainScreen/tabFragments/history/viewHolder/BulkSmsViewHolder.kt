@@ -23,9 +23,9 @@ import java.text.SimpleDateFormat
 
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 10/27/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
 
 class BulkSmsViewHolder constructor(override val containerView: View) :

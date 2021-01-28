@@ -10,9 +10,9 @@ import com.intelligentsoftwares.bulksms.fragments.BaseFragment
 import com.intelligentsoftwares.bulksms.util.SendBulkSmsActivityArgs
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 6/25/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
 
 class MainScreenFragment : BaseFragment() {

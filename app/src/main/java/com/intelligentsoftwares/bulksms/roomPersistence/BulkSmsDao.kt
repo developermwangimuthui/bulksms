@@ -6,11 +6,10 @@ import com.intelligentsoftwares.bulksms.activities.sendBulkSms.data.SmsContact
 
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 6/28/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
-
 @Dao
 interface BulkSmsDao {
 

@@ -6,9 +6,9 @@ import androidx.fragment.app.Fragment
 
 
 /**
- * Ahsen Saeed}
- * ahsansaeed067@gmail.com}
- * 10/27/19}
+ * Mwangi Muthui}
+ * intelligentsoftwaresdev@gmail.com}
+ * 6/26/19}
  */
 
 fun Fragment.getMutedColor(@ColorRes color: Int) = requireActivity().getMutedColor(color)
