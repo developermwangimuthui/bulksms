@@ -56,6 +56,10 @@ dependencies {
     implementation('com.crashlytics.sdk.android:crashlytics-ndk:2.1.1@aar') {
         transitive = true
     }
+//    card view
+
+    implementation "androidx.cardview:cardview:1.0.0"
+
 
     // Kotlin library dependency
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
